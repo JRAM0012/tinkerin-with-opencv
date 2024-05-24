@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-from math import sin, cos
 
 ret = True
 cam = cv2.VideoCapture(0)
